@@ -1,7 +1,7 @@
 # autoWatering
 Rega automática, auto-dosada
 
-Lista de HW e funcionamento básico:
+## Lista de HW & funcionamento básico: ##
 1) btOn: botão tipo ALAVANCA, é o principal, necessário para habilitação dos demais;
 2) btConfig/Reset: botão tipo CHAVE, seleciona entre: calibração ou uso - se acionado imediatamente zera o valor anteriormente parametrizado, funcionando somente no modo livre;
 3) btMode: botão tipo CHAVE seleção de modos: auto, livre;
@@ -15,4 +15,7 @@ Lista de HW e funcionamento básico:
 1) O QUE POSICIONAR PRIMEIRO: VALVULA OU SENSOR???
 2) QUAL DISTANCIA MÁXIMA ENTRE A BOMBA E O REGADOR? - É RELEVANTE???
 3) BOMBA PRÓXIMA DO TANQUE OU DO REGADOR??? - NECESSÁRIO TESTAR
+4) É POSSIVEL FOTA?
+5) DISPONIBILIDADE DOS DADOS EM NUVEM (thingspeak)
+6) VALE DEIXAR PREPARADO PARA LEITURA DE HUMIDADE, TEMPERATURA E GASES???
 
